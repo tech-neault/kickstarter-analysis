@@ -8,6 +8,7 @@
 ### Analysis of Outcomes, Based on Launch Date
 /main/assets/images/Theater_Outcomes_vs_Launch.png
 
+Based on the launch date, we can see that there are certain months where the success rate is higher. In the month of May, we can see that there were over 100 successful launches 
 
 ### Analysis of Outcomes, Based on Goals
 /main/assets/images/Outcomes_vs_Goals.png
