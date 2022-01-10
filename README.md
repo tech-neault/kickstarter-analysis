@@ -31,7 +31,7 @@ The issue with this formula is twofold: it is missing one comma, and it does not
 
 From our analysis, we know that Theater projects that had Kickstarters launched in May saw the highest numbers of successfully meeting their goal. We also know that the later in the summer months a Kickstarter was launched, the number of successfully funded projects continued a steady decline. This suggests that Louise will have the most success if she launches her Kickstarter in May.
 
-Luckily for theater lovers, all months see a higher total of successfully funded projects than failed campaigns. However, the month of December saw 37 successes to 35 failures. This is not only the lowest number of total campaigns launched, but also the closest margin of difference between success and failure. Therefore, we don't recommend Louise launch her Kickstarter in December 
+Luckily for theater lovers, all months see a higher total of successfully funded projects than failed campaigns. However, the month of December saw 37 successes to 35 failures. This is not only the lowest number of total campaigns launched, but also the closest margin of difference between success and failure. Therefore, we don't recommend Louise launch her Kickstarter in December.
 
 #### By Goals
 
@@ -41,7 +41,10 @@ Based on the analysis we've completed here, we can conclude that Louise stands a
 
 Which adds the criteria of successful plays in Louise's range that are **US based** we can see that 31 fundraisers have been successful, out of the 39 total from all countries. From this further analysis, we can conclude she is likely to find success with her Kickstarter fundraiser.
 
-### Limitations
+### Limitations & Further Suggestions
 
-### Further Suggestions & Additional Analysis
+This dataset is limited in that it only contains 3 years worth of data, from the years 2014, 2015, and 2016. In order to give Louise a clear picture of what is happening in the current world of arts fundraising, additional data from more recent years would be immensely helpful. We recommend additional data be collected and analyzed following similar patterns so that Louise is able to see up to date information. 
+
+Additional graphs that Louise could benefit from would be a year-over-year analysis of the 
+
 
