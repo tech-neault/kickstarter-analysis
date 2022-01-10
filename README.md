@@ -35,7 +35,7 @@ Luckily for theater lovers, all months see a higher total of successfully funded
 
 #### By Goals
 
-Based on the analysis we've completed here, we can conclude that Louise stands a good chance of having her Kickstarter successfully funded. Based on her goal to raise more than $10,000 for *Fever*, the international results for funding for plays in this 54% successful and 46% unsuccessful. When the COUNTIFS() formula is updated to the following: 
+Based on the analysis we've completed here, we can conclude that Louise stands a good chance of having her Kickstarter successfully funded. Based on her goal to raise more than $10,000 for *Fever*, we can see the international results for funding for plays in this range are 54% successful and 46% unsuccessful. When the COUNTIFS() formula is updated to the following: 
 
 `=COUNTIFS(Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays",Kickstarter!$D:$D,">=10000",Kickstarter!$D:$D,"<=14999",Kickstarter!$G:$G, "US")`
 
@@ -45,6 +45,8 @@ Which adds the criteria of successful plays in Louise's range that are **US base
 
 This dataset is limited in that it only contains 3 years worth of data, from the years 2014, 2015, and 2016. In order to give Louise a clear picture of what is happening in the current world of arts fundraising, additional data from more recent years would be immensely helpful. We recommend additional data be collected and analyzed following similar patterns so that Louise is able to see up to date information. 
 
-Additional graphs that Louise could benefit from would be a year-over-year analysis of the 
+Additional graphs that Louise could benefit from would be a year-over-year analysis of the funding of plays like hers - within her fundraising goal, based in the US or whatever country she intends to premiere the play in. 
+
+Further analysis may also uncover why projects that are seeking to raise between $40,000 and $44,999 are so strikingly successful with their Kickstarter fundraising. The Category of such projects may be a good place to begin looking for answers. 
 
 
