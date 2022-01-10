@@ -8,11 +8,12 @@
 ### Analysis of Outcomes, Based on Launch Date
 /main/assets/images/Theater_Outcomes_vs_Launch.png
 
-Based on the launch date, we can see that there are certain months where the success rate is higher. In the month of May, we can see that there were over 100 successful launches 
+Based on the launch date, we can see that there are certain months where the total number of successful Kickstarters is higher. In the month of May, we can see that there were over 100 successful launches, suggesting that May is an excellent time to begin a Kickstarter campaign. However, as the summer months pass, the successful Kickstarters decline in number, while the failed Kickstarters remain relatively steady. This suggests that the later in the summer months (June through August) the Kickstarter is launched, the less likely it is to be successful. 
 
 ### Analysis of Outcomes, Based on Goals
 /main/assets/images/Outcomes_vs_Goals.png
 
+The goals of the fundraisers fall across a wide spectrum, with some looking to raise under $1,000 and the highest seeking $100 million. With one exception, the general trend is that fundraisers with lower goals have a higher chance of successfully raising the money they seek. 
 
 ### Challenges and Difficulties Encountered
 
